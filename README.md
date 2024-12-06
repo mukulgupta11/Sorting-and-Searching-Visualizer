@@ -1,6 +1,6 @@
 # Sorting and Searching Visualizer
-#website Link - https://sorting-and-searching-visualizer.vercel.app/
-#Help you understand sorting and searching algorithms more easily. As well as conducting simulations to learn the patterns of each algorithm.
+# website Link - https://sorting-and-searching-visualizer.vercel.app/ <br>
+Help you understand sorting and searching algorithms more easily. As well as conducting simulations to learn the patterns of each algorithm.
 * Pick the size of array and speed of process!
 * Auto generate random array!
 * See how long the time of execution and big-O notation
